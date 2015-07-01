@@ -1,0 +1,2 @@
+点击picture noding，提示让你输入文件夹，你选择工程里的data文件夹即可在data文件夹中生成result文件夹，即给图片编号。
+你看picturenode(string filename,string str)函数，里面有说明，需要输什么，你稍微看下就知道怎么用。然后已知两点经纬度求距离，是我给你的designline工程里的GaussGeodeticDirect函数，你看看就知道怎么用了，里面的源码你分析下。其它的有什么问题再交流。
